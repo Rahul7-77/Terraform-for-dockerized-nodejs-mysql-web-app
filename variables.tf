@@ -1,0 +1,9 @@
+variable "subnet_cidr_block" {}
+variable "vpc_cidr_block" {}
+variable "env_prefix" {}
+variable "my_ip" {}
+variable "ami-id" {}
+variable "instance_type" {}
+variable "public_key_loc" {}
+variable "public_key_content" {}
+variable "my_region" {}
